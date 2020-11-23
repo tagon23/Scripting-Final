@@ -625,11 +625,11 @@
     <Reference Include="Boo.Lang">
       <HintPath>D:/Unity/Unity/Hub/Editor/2019.4.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>D:/2020 spring semester/Level design/This do be where the FPS/Scripting-Final/Scripting-Final/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>D:/2020 spring semester/Level design/This do be where the FPS/Scripting-Final/Scripting-Final/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>D:/2020 spring semester/Level design/This do be where the FPS/Scripting-Final/Scripting-Final/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
       <HintPath>D:/2020 spring semester/Level design/This do be where the FPS/Scripting-Final/Scripting-Final/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>

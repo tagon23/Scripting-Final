@@ -4,7 +4,6 @@ ScriptsOnlyBuild:
     - AnimationController
     - CameraRotation
     - LockCursor
-    - PlayerController
     - SceneManager2
     - ScriptforScenes
     - ThirdPersonMovement
@@ -26,11 +25,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnimatorStateTransitionInspector
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -85,37 +81,39 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11196}
     - Class: 114
-      Script: {instanceID: 11454}
+      Script: {instanceID: 11214}
     - Class: 114
-      Script: {instanceID: 11514}
+      Script: {instanceID: 11348}
     - Class: 114
-      Script: {instanceID: 11922}
+      Script: {instanceID: 11458}
     - Class: 114
-      Script: {instanceID: 12078}
+      Script: {instanceID: 11518}
     - Class: 114
-      Script: {instanceID: 12342}
+      Script: {instanceID: 11930}
     - Class: 114
-      Script: {instanceID: 12422}
+      Script: {instanceID: 12086}
     - Class: 114
-      Script: {instanceID: 12554}
+      Script: {instanceID: 12350}
     - Class: 114
-      Script: {instanceID: 12880}
+      Script: {instanceID: 12430}
     - Class: 114
-      Script: {instanceID: 13156}
+      Script: {instanceID: 12562}
     - Class: 114
-      Script: {instanceID: 13478}
+      Script: {instanceID: 12888}
     - Class: 114
-      Script: {instanceID: 13966}
+      Script: {instanceID: 12906}
     - Class: 114
-      Script: {instanceID: 13998}
+      Script: {instanceID: 13166}
     - Class: 114
-      Script: {instanceID: 14040}
+      Script: {instanceID: 13296}
     - Class: 114
-      Script: {instanceID: 84880}
+      Script: {instanceID: 13490}
     - Class: 114
-      Script: {instanceID: 86052}
+      Script: {instanceID: 13978}
     - Class: 114
-      Script: {instanceID: 89068}
+      Script: {instanceID: 14010}
+    - Class: 114
+      Script: {instanceID: 14052}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -155,8 +153,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 54
-      Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
     - Class: 65
@@ -180,33 +176,29 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11312}
+      Script: {instanceID: 11314}
     - Class: 114
-      Script: {instanceID: 11922}
+      Script: {instanceID: 11738}
     - Class: 114
-      Script: {instanceID: 12190}
+      Script: {instanceID: 11930}
     - Class: 114
-      Script: {instanceID: 12206}
+      Script: {instanceID: 12198}
     - Class: 114
-      Script: {instanceID: 12342}
+      Script: {instanceID: 12214}
     - Class: 114
-      Script: {instanceID: 12422}
+      Script: {instanceID: 12350}
     - Class: 114
-      Script: {instanceID: 12554}
+      Script: {instanceID: 12430}
     - Class: 114
       Script: {instanceID: 12562}
     - Class: 114
-      Script: {instanceID: 13156}
+      Script: {instanceID: 12570}
     - Class: 114
-      Script: {instanceID: 13300}
+      Script: {instanceID: 13166}
     - Class: 114
-      Script: {instanceID: 13966}
+      Script: {instanceID: 13312}
     - Class: 114
-      Script: {instanceID: 47390}
-    - Class: 114
-      Script: {instanceID: 61368}
-    - Class: 114
-      Script: {instanceID: 206410}
+      Script: {instanceID: 13978}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -265,35 +257,35 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11196}
     - Class: 114
-      Script: {instanceID: 11514}
+      Script: {instanceID: 11214}
     - Class: 114
-      Script: {instanceID: 11922}
+      Script: {instanceID: 11348}
     - Class: 114
-      Script: {instanceID: 12078}
+      Script: {instanceID: 11518}
     - Class: 114
-      Script: {instanceID: 12342}
+      Script: {instanceID: 11930}
     - Class: 114
-      Script: {instanceID: 12422}
+      Script: {instanceID: 12086}
     - Class: 114
-      Script: {instanceID: 12554}
+      Script: {instanceID: 12350}
     - Class: 114
-      Script: {instanceID: 12898}
+      Script: {instanceID: 12430}
     - Class: 114
-      Script: {instanceID: 13156}
+      Script: {instanceID: 12562}
     - Class: 114
-      Script: {instanceID: 13478}
+      Script: {instanceID: 12906}
     - Class: 114
-      Script: {instanceID: 13966}
+      Script: {instanceID: 13166}
     - Class: 114
-      Script: {instanceID: 13998}
+      Script: {instanceID: 13296}
     - Class: 114
-      Script: {instanceID: 14040}
+      Script: {instanceID: 13490}
     - Class: 114
-      Script: {instanceID: 84880}
+      Script: {instanceID: 13978}
     - Class: 114
-      Script: {instanceID: 86052}
+      Script: {instanceID: 14010}
     - Class: 114
-      Script: {instanceID: 89068}
+      Script: {instanceID: 14052}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -325,6 +317,12 @@ ScriptsOnlyBuild:
     assemblyName: VRM.dll
     namespaceName: VRM
     className: VRMFirstPerson
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneManager2
   - hash:
       serializedVersion: 2
       Hash: 23d669c8bf2983ca4a3df160658318a6
@@ -385,6 +383,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ScriptforScenes
+  - hash:
+      serializedVersion: 2
+      Hash: a26287687bdad13d8b60b237850ab4be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraRotation
   - hash:
       serializedVersion: 2
       Hash: a2113831d3323f931007e1b3812dc814
@@ -553,6 +557,18 @@ ScriptsOnlyBuild:
     assemblyName: UniHumanoid.dll
     namespaceName: UniHumanoid
     className: BoneGizmoDrawer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Restart
+  - hash:
+      serializedVersion: 2
+      Hash: 4168dfa2c07c6728b99836850a8d5f34
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AnimationController
   - hash:
       serializedVersion: 2
       Hash: bd3cf68c8964d3c66d1c43f4f98508c9
@@ -999,6 +1015,12 @@ ScriptsOnlyBuild:
     className: Physics2DRaycaster
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerController
+  - hash:
+      serializedVersion: 2
       Hash: 1e3d6222ff533d213aab144eb854a53b
     assemblyName: Cinemachine.dll
     namespaceName: 
@@ -1039,6 +1061,12 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachineIndependentImpulseListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LockCursor
   - hash:
       serializedVersion: 2
       Hash: 6225eb0973ab0af667bc5f9d1b1b18de
@@ -1321,42 +1349,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 4168dfa2c07c6728b99836850a8d5f34
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: AnimationController
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlayerController
-  - hash:
-      serializedVersion: 2
-      Hash: a26287687bdad13d8b60b237850ab4be
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: CameraRotation
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: LockCursor
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SceneManager2
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Restart
   platform: 5
   scenePathNames:
   - Assets/Scenes/Field Scene.unity

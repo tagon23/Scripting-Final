@@ -62,7 +62,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ScriptforScenes.cs" />
     <Compile Include="Assets\Scripts\AnimationController.cs" />
     <Compile Include="Assets\Scripts\Audiocontroller.cs" />
     <Compile Include="Assets\Scripts\CameraRotation.cs" />
@@ -75,10 +74,6 @@
     <Compile Include="Assets\Scripts\enemyScript.cs" />
     <Compile Include="Assets\Scripts\healthbarscript.cs" />
     <Compile Include="Assets\Scripts\levelController.cs" />
-    <Compile Include="Assets\ThirdPersonMovement.cs" />
-    <Compile Include="Assets\enemyScript.cs" />
-    <Compile Include="Assets\healthbarscript.cs" />
-    <Compile Include="Assets\levelController.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\AutoBlink.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\CameraController.cs" />
     <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\FaceUpdate.cs" />
